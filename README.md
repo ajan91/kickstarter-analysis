@@ -22,7 +22,6 @@ Deliverable 1 Requirements
 
 - A line chart is created showing the number of successful, failed, or canceled projects by month, it has a title, and it is saved as Theater_Outcomes_vs_Launch.png (5 pt).
 
-
 **Deliverable 2: Outcomes Based on Goals Chart**
 Deliverable 2 Requirements
 
@@ -36,6 +35,13 @@ Deliverable 2 Requirements
 
 - A line chart is created and saved as Outcomes_vs_Goals.png with the goal-amount ranges on the x-axis, the percentage of successful, failed, or canceled projects on the y-axis, and an appropriate title (6 pt).
 
+![](Resources/D1.PNG)
+![](Resources/D2.PNG)
+![](Resources/D3.PNG)
+![](Resources/D4.PNG)
+![](Resources/D5.PNG)
+![](Resources/D6.PNG)
+![](Resources/D7.PNG)
     
 **Deliverable 3: Written Analysis of the Results**    
 Deliverable 3 Requirements
@@ -46,5 +52,9 @@ Deliverable 3 Requirements
 
 - Results
     - Two conclusions are made about the Theater Outcomes by Launch Date (2 pt).
+         - our Line charts we can see by looking at our data that the months of May and June both have a greater success rate. A bar chart would not visulaise this distinction.
     - One conclusion is made about the Outcomes based on Goals (2 pt).
-    - There is a summary of the limitations of the dataset, and there is a recommendation for additional tables or graphs (2 pt).
+        - Outcomes based on Goals measures using line chart of central tendency work in practice help us finding the mean and median for each dataset
+    - There is a summary of the limitations of the dataset, and there is a recommendation for additional tables or graphs (2 pt)
+        - Some limitation can be that we'd like to know the deviations from the actual dataset, but because we don't know, these deviations have a subtle and slight bias to them.
+
